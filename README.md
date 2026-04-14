@@ -61,29 +61,6 @@ aligned and outcomes measurable.
 
 ---
 
-## Featured Projects
-
-### 🛍️ [Shopify Storefront Relaunch — [Brand Name]]
-> Led end-to-end delivery of a full Shopify theme overhaul for a mid-market retail brand.
-> Managed a 6-person cross-functional team (dev, design, QA, marketing), coordinating
-> 3 sprints over 8 weeks. Launched on schedule with zero critical post-launch defects.
-
-### ⚙️ [Shopify App Integration — [Client / App Name]]
-> Managed delivery of a custom Shopify private app connecting ERP and storefront.
-> Defined requirements, maintained the backlog, ran weekly stakeholder reviews, and
-> coordinated UAT sign-off. Reduced order processing time by 35%.
-
-### 🏗️ [MERN Platform Migration — [Project Name]]
-> Oversaw migration of a legacy CMS to a MERN stack application. Maintained risk
-> register, dependency map, and sprint velocity across a 4-month engagement.
-> Delivered under budget with full stakeholder alignment.
-
-### 📊 [OKR & Reporting Framework — [Company / Team Name]]
-> Designed and rolled out a quarterly OKR framework and Jira-based reporting dashboard
-> for a 30-person product and engineering org. Reduced status meeting time by 40%.
-
----
-
 ## My PM Philosophy
 
 - **Clarity over complexity** — I write documentation that engineers and executives can both act on.
